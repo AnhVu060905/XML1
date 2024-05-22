@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Abcd>
+<.git>
+	<file>config</file>
+	<file>description</file>
+	<file>HEAD</file>
+<hooks>
+	<file>applypatch-msg.sample</file>
+	<file>commit-msg.sample</file>
+	<file>fsmonitor-watchman.sample</file>
+	<file>post-update.sample</file>
+	<file>pre-applypatch.sample</file>
+	<file>pre-commit.sample</file>
+	<file>pre-merge-commit.sample</file>
+	<file>pre-push.sample</file>
+	<file>pre-rebase.sample</file>
+	<file>pre-receive.sample</file>
+	<file>prepare-commit-msg.sample</file>
+	<file>push-to-checkout.sample</file>
+	<file>sendemail-validate.sample</file>
+	<file>update.sample</file>
+</hooks>
+	<file>index</file>
+<info>
+	<file>exclude</file>
+</info>
+<objects>
+<13>
+	<file>566b81b018ad684f3a35fee301741b2734c8f4</file>
+</13>
+<1d>
+	<file>8ab018eaf11d9b3a4a90e7818ace373dfbb380</file>
+</1d>
+<27>
+	<file>800b97fee39f5e13ca65eba86189a5715e6630</file>
+</27>
+<40>
+	<file>ca0155f714d58a8b51693db47b5d80821bad4c</file>
+</40>
+<4b>
+	<file>14990927cdebf36212abeafc16f2e22c9b9f6c</file>
+</4b>
+<5e>
+	<file>576677d52c366fe56d38542bd1f9c40e4b3bb7</file>
+</5e>
+<5f>
+	<file>f6309b7199129c1afe4f4ec1906e640bec48c6</file>
+</5f>
+<8a>
+	<file>8fb2282df5b8f7263470a5a2dc0e196f35f35f</file>
+</8a>
+<94>
+	<file>a25f7f4cb416c083d265558da75d457237d671</file>
+</94>
+<9c>
+	<file>8017e4488512857549dc8dd85745eeade33835</file>
+</9c>
+<aa>
+	<file>00ffab7828f4818589659c804ec2cfd99baed3</file>
+</aa>
+<c1>
+	<file>dd12f17644411d6e840bd5a10c6ecda0175f18</file>
+</c1>
+<d1>
+	<file>b78c598478a8cf72340017765d1418cc25d7af</file>
+</d1>
+<e7>
+	<file>41386b3ce1cfefbc558e8d7f79d7e1e12783e0</file>
+</e7>
+<ec>
+	<file>fa09c0da8e44958b2dddfe063bbfd6fab43ae6</file>
+</ec>
+<info>
+</info>
+<pack>
+</pack>
+</objects>
+<refs>
+<heads>
+</heads>
+<tags>
+</tags>
+</refs>
+</.git>
+	<file>.gitignore</file>
+<.idea>
+	<file>.gitignore</file>
+	<file>compiler.xml</file>
+	<file>encodings.xml</file>
+	<file>jarRepositories.xml</file>
+	<file>misc.xml</file>
+	<file>vcs.xml</file>
+	<file>workspace.xml</file>
+</.idea>
+<.mvn>
+<wrapper>
+	<file>maven-wrapper.jar</file>
+	<file>maven-wrapper.properties</file>
+</wrapper>
+</.mvn>
+	<file>mvnw</file>
+	<file>mvnw.cmd</file>
+	<file>pom.xml</file>
+<src>
+<main>
+<java>
+	<file>module-info.java</file>
+<org>
+<example>
+<abcd>
+	<file>ChatClient.java</file>
+	<file>ChatServer.java</file>
+</abcd>
+</example>
+</org>
+</java>
+<resources>
+<org>
+<example>
+<abcd>
+	<file>hello-view.fxml</file>
+</abcd>
+</example>
+</org>
+</resources>
+</main>
+</src>
+<target>
+<classes>
+	<file>module-info.class</file>
+<org>
+<example>
+<abcd>
+	<file>ChatClient.class</file>
+	<file>ChatServer$ClientHandler.class</file>
+	<file>ChatServer.class</file>
+	<file>hello-view.fxml</file>
+</abcd>
+</example>
+</org>
+</classes>
+<generated-sources>
+<annotations>
+</annotations>
+</generated-sources>
+</target>
+</Abcd>
